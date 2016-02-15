@@ -124,7 +124,7 @@ body {
 
 #updates {
 	display: inline-block;
-	width: 70%;
+	width: 80%;
 	position:relative;
 	background-color: white;
 	margin-left: 1%;
@@ -145,13 +145,17 @@ body {
 #social {
 	display: inline-block;
 	position:relative;
-	width: 27%;
+	width: 17%;
 	background-color: white;
 	margin-left: 1%;
 	-webkit-box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.55);
 	-moz-box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.55);
 	box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.55);
 	height: 1000px;
+}
+
+#socialInner {
+	position: absolute;
 }
 
 .title {
@@ -167,7 +171,6 @@ body {
 }
 
 .socialLinksCont {
-	background-color:white;
 	position:relative;
 	width: 100%;
 	margin-left: 10px;
@@ -176,7 +179,6 @@ body {
 
 .profilePic {
 	margin-left: 10px;
-	float: left;
 }
 
 .nameLinkCont {
@@ -184,12 +186,13 @@ body {
 	font-weight: 600;
 	font-size: 20px;
 	position:relative;
-	margin-left: 10px;
+	margin-left: 84px;
 }
 
 .socialName {
 	position:absolute;
 	margin-top: 0px;
+	width: 200px;
 }
 
 .socialLink {
