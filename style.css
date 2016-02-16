@@ -5,7 +5,6 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	padding: 0px;
 	margin: 0px;
-	background-color: #0A85AB;
 }
 
 #header {
@@ -129,9 +128,9 @@ body {
 	position:relative;
 	background-color: white;
 	margin-left: 1%;
-	/*-webkit-box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.55);
-	-moz-box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.55);
-	box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.55);*/
+	-webkit-box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.2);
+	box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.2);
 	height: 1000px;
 }
 
@@ -149,9 +148,9 @@ body {
 	width: 17%;
 	background-color: white;
 	margin-left: 1%;
-	/*-webkit-box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.55);
-	-moz-box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.55);
-	box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.55);*/
+	-webkit-box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.2);
+	box-shadow: 0px 0px 15px -1px rgba(0,0,0,0.2);
 	height: 1000px;
 }
 
